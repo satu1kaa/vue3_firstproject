@@ -2,7 +2,6 @@
     <div>
         mzfck
     </div>
-    <input type="text">
 </template>
 
 <script>
