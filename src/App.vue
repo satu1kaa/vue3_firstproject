@@ -2,6 +2,9 @@
     <div>
         mzfck
     </div>
+    <div>
+        asdfasd
+    </div>
 </template>
 
 <script>
